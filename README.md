@@ -1,7 +1,7 @@
 # 👁️ SenseAble AI  
 ### AI Assistant for the Visually Impaired  
 
-![SenseAble AI Cover](./COVER IMAGE.jpg)
+![SenseAble AI Cover](./COVERIMAGE.jpg)
 
 SenseAble AI is a voice-based assistive solution designed to help visually impaired individuals perform everyday tasks independently.  
 It focuses on using artificial intelligence responsibly to improve accessibility, confidence, and dignity in daily life.
